@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv>
+<channel id="Dunkirk_2017">
+  <display-name>Dunkirk (2017)</display-name>
+  <icon src=""/>
+</channel>
+<programme channel="Dunkirk_2017">
+  <title>Dunkirk (2017)</title>
+  <desc>Lets fucking go</desc>
+  <duration>7200</duration>
+</programme>
+</tv>
